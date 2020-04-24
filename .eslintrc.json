@@ -1,0 +1,14 @@
+{
+  "extends":"eslint:recommended",
+  "parserOptions":{
+    "ecmaversion":2017
+  },
+  "env":{
+    "es6":true,
+    "node":true
+  },
+  "root":true,
+  "rules":{
+    "camelcase":2
+  }
+}
